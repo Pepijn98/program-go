@@ -1,3 +1,5 @@
+[![Go Report Card](https://goreportcard.com/badge/github.com/KurozeroPB/program-go)](https://goreportcard.com/report/github.com/KurozeroPB/program-go)
+
 # program-go
 __Small and simple program-o wrapper in Golang__
 
